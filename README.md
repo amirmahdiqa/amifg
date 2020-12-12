@@ -6,6 +6,6 @@
     "daste": "برنامه کاربردی",
     "id1": "https://rubika.ir/Postebanel",
     "pyam": "روبیکا",
-    "aks": "https://messenger719.iranlms.ir/InternFile.ashx?id\u003d1902414116\u0026ach\u003d7946809545507685391848116035082020102817"
+    "aks": "https://www.aparat.com/video/video/embed/videohash/cB1Qs/vt/frame"
   }
 ]
