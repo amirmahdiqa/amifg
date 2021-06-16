@@ -1,3 +1,44 @@
 {
-"date":[ { "id": "اپارات", "aks": "https://ncdn.p30updl.ir/?s=1&f=film/Infinitum_Subject_Unknown_2021_720p_UPTV.co_Sub.mkv" },{ "id": "باشگاه", "aks": "https://ncdn.p30updl.ir/?s=1&f=film/Driftless_2020_720p_UPTV.co_Sub.mkv" },{ "id": "سیگار", "aks": "https://ncdn.p30updl.ir/?s=1&f=film/Golden_Slumber_2018_720p_UPTV.co_Sub.mkv" },{ "id": "مداد", "aks": "https://ncdn.p30updl.ir/?s=1&f=film/Steel_Rain_2017_720p_UPTVz.co_Sub.mkv" } ]
+  "onlin_tarsnak": [
+    {
+      "aks": "",
+      "film": "",
+      "nam": ""
+    }
+  ],
+  "onlin_tanzi": [
+    {
+      "aks": "",
+      "nam": "",
+      "film": ""
+    }
+  ],
+  "onlin_gangi": [
+    {
+      "aks": "",
+      "nam": "",
+      "film": ""
+    }
+  ],
+  "onlin_magragoye": [
+    {
+      "aks": "",
+      "nam": "",
+      "film": ""
+    }
+  ],
+  "onlin_animyshen": [
+    {
+      "aks": "",
+      "nam": "",
+      "film": ""
+    }
+  ],
+  "onlin_moamaye": [
+    {
+      "aks": "",
+      "film": "",
+      "nam": ""
+    }
+  ]
 }
